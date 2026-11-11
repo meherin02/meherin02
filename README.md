@@ -45,7 +45,7 @@ Most of my projects begin with an everyday problem — finding local volunteerin
 
 A selection of work across community, everyday commerce, climate data, and fitness.
 
-### 01 · Community Events
+### Community Events
 *A platform for discovering, organizing, and joining local volunteering events.*
 
 - Browse upcoming events, search by title or location, and filter by category.
@@ -56,7 +56,7 @@ A selection of work across community, everyday commerce, climate data, and fitne
 **Live demo** — [communityevents-mauve.vercel.app](https://communityevents-mauve.vercel.app/)  
 **Source** — [client](https://github.com/meherin02/b14_a8_client_meherin) · [API](https://github.com/meherin02/b14_a8_server_meherin)
 
-### 02 · BazarDor
+### BazarDor
 *A Bangla grocery price tracker for comparing everyday prices across local markets.*
 
 - See today's top price increases and decreases, then browse all products by category.
@@ -67,7 +67,7 @@ A selection of work across community, everyday commerce, climate data, and fitne
 **Live demo** — [b14-assignment7-meherin.vercel.app](https://b14-assignment7-meherin.vercel.app/)  
 **Source** — [repository](https://github.com/meherin02/b14_assignment7_meherin)
 
-### 03 · TerraPulse AI
+### TerraPulse AI
 **Team project** — built with Team Neurastra for the NASA Space Apps Challenge 2026.
 
 *An environmental trend explorer that uses NASA POWER data to examine temperature and precipitation across Bangladesh.*
@@ -80,7 +80,7 @@ A selection of work across community, everyday commerce, climate data, and fitne
 **Live demo** — [terrapulseaiteamneurastra.vercel.app](https://terrapulseaiteamneurastra.vercel.app/)  
 **Source** — [repository](https://github.com/meherin02/terrapulse_ai_team_neurastra)
 
-### 04 · FitLog
+### FitLog
 *A responsive workout planner for building a daily plan and keeping track of each set.*
 
 - Explore a 12-exercise library with muscle tags, equipment, duration, calories, and ratings.
