@@ -1,73 +1,108 @@
-![Meherin Jahan — MERN Stack Developer](./assets/profile-banner.png)
-
-<h1 align="center">Hi, I'm Meherin Jahan</h1>
-
 <p align="center">
-  <strong>MERN Stack Developer · Computer Science & Engineering Student</strong>
+  <img src="./assets/profile-banner.png" alt="Meherin Jahan — MERN Stack Developer" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://portfoliomeherin.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/meherin-jahan">LinkedIn</a> ·
-  <a href="https://github.com/meherin02?tab=repositories">Repositories</a>
-</p>
+# Meherin Jahan
+
+**MERN Stack Developer · Computer Science & Engineering Student**
+
+I build full-stack web applications with React, Next.js, Node.js, and MongoDB. I care about clear interfaces, dependable APIs, and the small details that make a product feel finished.
+
+[Portfolio](https://portfoliomeherin.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/meherin-jahan)
+
+---
 
 ## About me
 
-I'm a Computer Science and Engineering student building web applications with React, Next.js, Node.js, and MongoDB. I enjoy working across interfaces, APIs, and databases to turn practical ideas into usable software.
+I'm a Computer Science and Engineering student and a MERN stack developer. My work usually sits across the whole stack: building interfaces in React and Next.js, writing APIs with Node.js and Express, and modeling data in MongoDB or Supabase.
 
-My projects explore local volunteering, grocery price comparisons, and personal fitness. I have also collaborated on a climate data explorer focused on Bangladesh.
+Most of my projects begin with an everyday problem — finding local volunteering opportunities, comparing grocery prices across markets, or keeping a workout plan consistent. I like turning those into software with a clear data model, a calm interface, and states that explain what is happening: loading, empty, error, and success. I care about the details that keep an application usable — clear validation, sensible empty states, and layouts that hold up on a phone.
 
-## Technologies I work with
+---
 
-**Frontend**
+## Technologies
 
-![React](https://img.shields.io/badge/React-16213A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-16213A?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-16213A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-16213A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+**Frontend**  
+[![React](https://img.shields.io/badge/React-1B2438?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-1B2438?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-1B2438?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1B2438?style=flat-square&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/)
 
-**Backend & databases**
+**Backend & Databases**  
+[![Node.js](https://img.shields.io/badge/Node.js-1B2438?style=flat-square&logo=nodedotjs&logoColor=5FA04E)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-1B2438?style=flat-square&logo=express&logoColor=FFFFFF)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-1B2438?style=flat-square&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-1B2438?style=flat-square&logo=supabase&logoColor=3FCF8E)](https://supabase.com/)
 
-![Node.js](https://img.shields.io/badge/Node.js-16213A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-16213A?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-16213A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Supabase](https://img.shields.io/badge/Supabase-16213A?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+**Tools**  
+[![Git](https://img.shields.io/badge/Git-1B2438?style=flat-square&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-1B2438?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-1B2438?style=flat-square&logo=vercel&logoColor=FFFFFF)](https://vercel.com/)
 
-**Development tools**
+---
 
-![Git](https://img.shields.io/badge/Git-16213A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-16213A?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-16213A?style=for-the-badge&logo=vercel&logoColor=white)
+## Featured projects
 
-## Selected projects
+A selection of work across community, everyday commerce, climate data, and fitness.
 
-### Community Events
-A platform for discovering, organizing, and joining local volunteering events, with event management and registration features.
+### 01 · Community Events
+*A platform for discovering, organizing, and joining local volunteering events.*
 
-**Built with** Next.js, Express, MongoDB  
-[Explore the live application](https://communityevents-mauve.vercel.app/)
+- Browse upcoming events, search by title or location, and filter by category.
+- Create and manage events you organize, join events, and keep a personal list of registrations.
+- Email/password and Google sign-in with BetterAuth, protected routes, and profile updates.
 
-### BazarDor
-A Bangla grocery price tracker with category filters, price sorting, and comparisons across markets.
+**Stack** — Next.js · Express · MongoDB · BetterAuth  
+**Live demo** — [communityevents-mauve.vercel.app](https://communityevents-mauve.vercel.app/)  
+**Source** — [client](https://github.com/meherin02/b14_a8_client_meherin) · [API](https://github.com/meherin02/b14_a8_server_meherin)
 
-**Built with** Next.js, TypeScript, Supabase  
-[Explore the live application](https://b14-assignment7-meherin.vercel.app/)
+### 02 · BazarDor
+*A Bangla grocery price tracker for comparing everyday prices across local markets.*
 
-### TerraPulse AI
-A team project exploring temperature and precipitation trends across Bangladesh using NASA POWER data, with charts, trend estimates, and confidence intervals.
+- See today's top price increases and decreases, then browse all products by category.
+- Sort by price and open a product to compare minimum, maximum, and average prices across markets.
+- Google and GitHub sign-in, protected product pages, profile updates, and Bengali numerals.
 
-**Team** Neurastra  
-[Explore the live application](https://terrapulseaiteamneurastra.vercel.app/)
+**Stack** — Next.js · TypeScript · Tailwind CSS · Supabase · BetterAuth  
+**Live demo** — [b14-assignment7-meherin.vercel.app](https://b14-assignment7-meherin.vercel.app/)  
+**Source** — [repository](https://github.com/meherin02/b14_assignment7_meherin)
 
-### FitLog
-A responsive workout planner with a 12-exercise library, daily workout planning, and set tracking.
+### 03 · TerraPulse AI
+**Team project** — built with Team Neurastra for the NASA Space Apps Challenge 2026.
 
-**Built with** Next.js, Tailwind CSS  
-[Explore the live application](https://b14a6meherin.vercel.app/)
+*An environmental trend explorer that uses NASA POWER data to examine temperature and precipitation across Bangladesh.*
 
-## Connect with me
+- Compare monthly and annual records for Dhaka, Rajshahi, and Sylhet from 1981 to 2024.
+- Read trend estimates with uncertainty, switch between locations, and compare periods on shared chart scales.
+- Export findings and data as CSV; an optional TerraAgent chat explains the selected results.
 
-Interested in discussing a project or exchanging ideas about web development? Connect with me on LinkedIn.
+**Stack** — React · Vite · Recharts · [NASA POWER](https://power.larc.nasa.gov/) data  
+**Live demo** — [terrapulseaiteamneurastra.vercel.app](https://terrapulseaiteamneurastra.vercel.app/)  
+**Source** — [repository](https://github.com/meherin02/terrapulse_ai_team_neurastra)
 
-[LinkedIn](https://www.linkedin.com/in/meherin-jahan) · [Portfolio](https://portfoliomeherin.vercel.app/)
+### 04 · FitLog
+*A responsive workout planner for building a daily plan and keeping track of each set.*
+
+- Explore a 12-exercise library with muscle tags, equipment, duration, calories, and ratings.
+- Plan up to five unfinished lifts, mark them complete, and keep a separate saved list.
+- Sort by duration, calories, or rating; plans persist in the browser between visits.
+
+**Stack** — Next.js · Tailwind CSS · localStorage  
+**Live demo** — [b14a6meherin.vercel.app](https://b14a6meherin.vercel.app/)  
+**Source** — [repository](https://github.com/meherin02/B14_A6_Meherin)
+
+---
+
+## How I build
+
+- **Model the data first.** I try to define records and API contracts before building screens, so each view has stable states to render.
+- **Design for the edges.** I treat empty lists, failed requests, duplicate actions, and small screens as part of the product, not cleanup.
+- **Check the whole path.** I prefer to deploy early and test the live client, API, and database together rather than leaving deployment for the end.
+
+---
+
+## Connect
+
+For a closer look at my work and background:
+
+[Portfolio](https://portfoliomeherin.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/meherin-jahan) · [Email](mailto:meherjan0201@gmail.com)
